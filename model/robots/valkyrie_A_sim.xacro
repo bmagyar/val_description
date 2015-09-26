@@ -6,4 +6,6 @@
     <xacro:include filename="common/xacro/valkyrie_base_sim.xacro"/>
     <xacro:include filename="../urdf/multisense_sl.urdf" />
 
+    <xacro:include filename="edinburgh_mods.xacro"/>
+
 </robot>
